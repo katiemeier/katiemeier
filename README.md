@@ -12,6 +12,9 @@ collaborate with a motivated team of programmers, where I can help contribute to
 
 ## Key Projects :bulb:
 
+## Airbnb Price Predictor 🏠
+Executed the machine learning life cycle to create a model to predict the price of an AirBnb using the Random Forest algorithm, improving initial mean squared error by 62%. Utilized Pandas and scipy methods to clean data, used Grid Search to test for optimal model hyperparameters, and implemented seaborn methods to graph feature values vs. model performance
+
 ## Sudoku  
 Implemented recursive backtracking in Java to efficiently solve sudokus. Created a custom Sudoku class including a two-dimensional list to reprsent the board, matrices to track if a column, row, or diagonal contained a certain number, and the key recursive backtracking algorithm that solved the puzzle. 
 
